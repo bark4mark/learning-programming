@@ -14,29 +14,29 @@ This repo contains slides and a skeleton project to get started on Day 1
 - Atom
 - atom-live-server (ctrl-alt-3 to start server)
 - intro to the code editor (atom)
-..- Syntax highlighting
-..- Auto indentation
-..- Code completion
-..- Running application
+  - Syntax highlighting
+  - Auto indentation
+  - Code completion
+  - Running application
 
 ## Programming (language basics)
 - Hello world
 - Variables
-..- Case sensitivity
-..- Reserved keywords
-..- Data types
-..- Retrieving Variables
+  - Case sensitivity
+  - Reserved keywords
+  - Data types
+  - Retrieving Variables
 - Comments
-..- How to write comments, why write comments
+  - How to write comments, why write comments
 - Operators
-..- Maths
-..- Equality
-..- Mixing data types
+  - Maths
+  - Equality
+  - Mixing data types
 - Conditionals
-..- if...else
+  - if...else
 - Functions
-..- declaring Functions
-..- calling functions
+  - declaring Functions
+  - calling functions
 
 ## Discuss project ideas
 
