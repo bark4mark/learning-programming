@@ -39,14 +39,14 @@ This repo contains slides and a skeleton project to get started on Day 1
   - declaring Functions
   - calling functions
   
-  ## The dom
-  - Add some text
-  - Change some items already loaded on the page
-  - Add a button and program it to do something
+## The dom
+- Add some text
+- Change some items already loaded on the page
+- Add a button and program it to do something
   
-  ## Loading media
-  - Images
-  - Sound
+## Loading media
+- Images
+- Sound
 
 ## Work through
 https://www.codecademy.com/en/tracks/high-school-javascript
