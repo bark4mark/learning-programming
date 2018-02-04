@@ -1,4 +1,4 @@
-# Coder dojo - Beginning programming Day 1/2
+# Coder dojo - Beginning programming
 
 ## Introduction
 This repo contains slides and a skeleton project to get started on Day 1
