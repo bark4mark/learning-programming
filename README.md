@@ -7,8 +7,9 @@ This repo contains slides and a skeleton project to get started on Day 1
 - Why programming is a good skill to learn
 
 ## The plan
-- Day 1/2, language basics, project overview + examples and activities.
-- Day 3/4, recap of day basics, project selection, js events + examples and activities.
+- Language basics, project overview + examples and activities, install git and atom, pull project and work through examples.
+- Using codecademy, complete the highschool js course.
+- Use the code learned in codecademy to write small apps in atom.
 
 ## Setup
 - Atom
@@ -37,13 +38,15 @@ This repo contains slides and a skeleton project to get started on Day 1
 - Functions
   - declaring Functions
   - calling functions
-
-## Discuss project ideas
+  
+  ## The dom
+  - Add some text
+  - Change some items already loaded on the page
+  - Add a button and program it to do something
+  
+  ## Loading media
+  - Images
+  - Sound
 
 ## Work through
 https://www.codecademy.com/en/tracks/high-school-javascript
-
-# Coder dojo - Beginning programming Day 3/4 (wip)
-- Javascript Events
-
-## Work through more of codecademy
