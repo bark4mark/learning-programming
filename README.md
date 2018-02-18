@@ -38,6 +38,9 @@ This repo contains slides and a skeleton project to get started on Day 1
 - Functions
   - declaring Functions
   - calling functions
+- Events
+  - Mouse events
+  - Keyboard events
   
 ## The dom
 - Add some text
