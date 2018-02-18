@@ -1,7 +1,7 @@
 # Coder dojo - Beginning programming
 
 ## Introduction
-This repo contains slides and a skeleton project to get started on Day 1
+This repo contains slides and skeleton projects with examples of each item
 
 - What is programming
 - Why programming is a good skill to learn
